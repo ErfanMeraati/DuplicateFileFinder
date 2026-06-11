@@ -1,0 +1,2 @@
+# DuplicateFileFinder
+Duplicate File Finder
